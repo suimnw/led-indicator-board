@@ -15,7 +15,7 @@ It contains:
 ## Preview
 Here’s how the PCB looks:
 
-![PCB Preview](images/pcb.png)
+![PCB Preview](images/pcb1.png)
 
 ## Usage
 Open .brd and .sch in Fusion 360 Electronics (Eagle)  
